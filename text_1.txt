@@ -1,4 +1,8 @@
 Hello World: Text Experimento
 Hello World from feature/LUCA: Text Experimento4
 Ciao come stai
+<<<<<<< Updated upstream
 Modifica from file
+=======
+mi chiamo Luca
+>>>>>>> Stashed changes
