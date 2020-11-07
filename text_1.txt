@@ -6,3 +6,4 @@ Modifica from file
 =======
 mi chiamo Luca
 >>>>>>> Stashed changes
+ok from remoto
