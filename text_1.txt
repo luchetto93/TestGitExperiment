@@ -6,8 +6,4 @@ Modifica from file
 =======
 mi chiamo Luca
 >>>>>>> Stashed changes
-<<<<<<< Updated upstream
 ok from remoto
-=======
-ok from local
->>>>>>> Stashed changes
